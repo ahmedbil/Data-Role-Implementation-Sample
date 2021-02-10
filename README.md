@@ -16,6 +16,11 @@ To Run my Samples
 - Data Engineering.ipynb will require jupyter notebook to run. 
 
 
+
+
+
+
+
 ABOUT ME
 I am currently a first-year student, studying Computer Science and Business Administration, with the University of Waterloo and Wilfrid Laurier University. In my free time, I am searching for ways to combine my enthusiasm for technology and creative designing to develop products that can benefit others. I am curiosity-driven and passionate about learning. Specifically, I enjoy learning about potential innovation holds and how it is contributing to changing the world. Moreover, I have also been competing in soccer, table tennis, and track & field. A fun fact about me is that I am left-handed. 
 
