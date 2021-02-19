@@ -1,6 +1,4 @@
-# Data-Role-Implementation-Sample
-I attempted the question samples given in the Data Role repository
-
+# Data-Implementation-Sample
 To Run my Samples
 - Please download the DataRole1.zip file
 - The cleanup_label python code inside of the zip folder will require python.
@@ -25,4 +23,3 @@ ABOUT ME
 
 I am currently a first-year student, studying Computer Science and Business Administration, with the University of Waterloo and Wilfrid Laurier University. In my free time, I am searching for ways to combine my enthusiasm for technology and creative designing to develop products that can benefit others. I am curiosity-driven and passionate about learning. Specifically, I enjoy learning about potential innovation holds and how it is contributing to changing the world. Moreover, I have also been competing in soccer, table tennis, and track & field. A fun fact about me is that I am left-handed. 
 
-Through this internship, I will build on technical skills to systematically organize, preprocess, explore, and transform data. It will allow me to create and contribute to data models for predicting the targeted audience behaviour. This internship will give me direct exposure to complex problems; through which I will develop techniques for breaking problems into manageable steps, and solving them creatively. Furthermore, through the work done in this internship, I will learn about ways to communicate the patterns and insights found to the decision-makers. Thus, this opportunity will help me build technical and communication skills.
